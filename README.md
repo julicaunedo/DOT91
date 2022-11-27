@@ -1,6 +1,6 @@
 # DOT91
 
-To run this code, make sure to copy data repository (whose structure is defined later in this file) using command
+To run this code, make sure to copy data repository using command
 ```
 cp -rf ~/data .
 ```
